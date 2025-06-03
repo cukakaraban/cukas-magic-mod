@@ -4,101 +4,34 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="21653" value="A" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=#1699D3;gradientColor=none;fontFamily=Helvetica;fontSize=25;fontColor=#2F5B7C;align=left;opacity=50;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="205" y="171.5" width="41" height="41" as="geometry" />
+        <mxCell id="R4TMoheEHXKSQJW_qprq-21706" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="R4TMoheEHXKSQJW_qprq-21729" target="R4TMoheEHXKSQJW_qprq-21715">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="400" as="sourcePoint" />
+            <mxPoint x="270" y="400" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="21654" value="B" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=#0E8088;gradientColor=none;fontFamily=Helvetica;fontSize=25;fontColor=#2F5B7C;align=left;opacity=50;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="205" y="251.5" width="41" height="41" as="geometry" />
+        <mxCell id="R4TMoheEHXKSQJW_qprq-21695" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Begining&lt;/h1&gt;&lt;p&gt;Three distinct dimensions have been brought into existence: the Overworld, the Nether, and the End. Each realm was shaped by deities—some minor, others of immense power—whose influence carved the very fabric of their respective domains.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="230" width="180" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="21655" value="E" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=#56517E;gradientColor=none;fontFamily=Helvetica;fontSize=25;fontColor=#2F5B7C;align=left;opacity=50;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="204.5" y="491.5" width="41" height="41" as="geometry" />
+        <mxCell id="R4TMoheEHXKSQJW_qprq-21707" value="&lt;h1&gt;&lt;b&gt;Nether&lt;/b&gt;&lt;/h1&gt;&lt;div&gt;At the dawn of times nether was warm, lush dimension where mobs such such as modern sniffers were living&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;align=left;" vertex="1" parent="1">
+          <mxGeometry x="415" y="460" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="21656" value="C" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=#F08705;gradientColor=none;fontFamily=Helvetica;fontSize=25;fontColor=#2F5B7C;align=left;opacity=50;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="205" y="331.5" width="41" height="41" as="geometry" />
+        <mxCell id="R4TMoheEHXKSQJW_qprq-21727" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R4TMoheEHXKSQJW_qprq-21715">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="880" y="400" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="21657" value="D" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=#AE4132;gradientColor=none;fontFamily=Helvetica;fontSize=25;fontColor=#2F5B7C;align=left;opacity=50;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="205" y="411.5" width="41" height="41" as="geometry" />
+        <mxCell id="R4TMoheEHXKSQJW_qprq-21715" value="&lt;h1&gt;&lt;b&gt;Overworld&lt;/b&gt;&lt;/h1&gt;&lt;div&gt;Overworld was forming under influence of 4 deities (Hosts) such as Action, Knowledge, WIP and Foresight.&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;align=left;" vertex="1" parent="1">
+          <mxGeometry x="415" y="340" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="21658" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="373.5" y="110.5" width="591" height="618.8355297838693" as="geometry" />
+        <mxCell id="R4TMoheEHXKSQJW_qprq-21716" value="&lt;h1&gt;&lt;b&gt;End&lt;/b&gt;&lt;/h1&gt;&lt;div&gt;WIP&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;align=left;" vertex="1" parent="1">
+          <mxGeometry x="415" y="220" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="21659" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=0;glass=0;labelBackgroundColor=#FFFFFF;strokeColor=none;strokeWidth=2;fillColor=#F08705;gradientColor=none;fontFamily=Helvetica;fontSize=25;fontColor=#2F5B7C;align=left;opacity=50;" parent="21658" vertex="1">
-          <mxGeometry x="171.21785714285716" y="252.549815498155" width="366.2857142857143" height="366.2857142857143" as="geometry" />
+        <mxCell id="R4TMoheEHXKSQJW_qprq-21728" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Magic flooding the world&lt;/h1&gt;&lt;p&gt;As the world was forming 3 beings appeared in the world&amp;nbsp;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="190" width="180" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="21660" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=0;glass=0;labelBackgroundColor=#FFFFFF;strokeColor=none;strokeWidth=2;fillColor=#12AAB5;gradientColor=none;fontFamily=Helvetica;fontSize=25;fontColor=#2F5B7C;align=left;opacity=50;" parent="21658" vertex="1">
-          <mxGeometry x="224.71428571428572" y="86.97785977859779" width="366.2857142857143" height="366.2857142857143" as="geometry" />
-        </mxCell>
-        <mxCell id="21661" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=0;glass=0;labelBackgroundColor=#FFFFFF;strokeColor=none;strokeWidth=2;fillColor=#1699D3;gradientColor=none;fontFamily=Helvetica;fontSize=25;fontColor=#2F5B7C;align=left;opacity=50;" parent="21658" vertex="1">
-          <mxGeometry x="109.64642857142857" width="366.2857142857143" height="366.2857142857143" as="geometry" />
-        </mxCell>
-        <mxCell id="21662" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=0;glass=0;labelBackgroundColor=#FFFFFF;strokeColor=none;strokeWidth=2;fillColor=#56517E;gradientColor=none;fontFamily=Helvetica;fontSize=25;fontColor=#2F5B7C;align=left;opacity=50;" parent="21658" vertex="1">
-          <mxGeometry y="86.97785977859779" width="366.2857142857143" height="366.2857142857143" as="geometry" />
-        </mxCell>
-        <mxCell id="21663" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=0;glass=0;labelBackgroundColor=#FFFFFF;strokeColor=none;strokeWidth=2;fillColor=#AE4132;gradientColor=none;fontFamily=Helvetica;fontSize=25;fontColor=#2F5B7C;align=left;opacity=50;" parent="21658" vertex="1">
-          <mxGeometry x="48.07499999999999" y="252.549815498155" width="366.2857142857143" height="366.2857142857143" as="geometry" />
-        </mxCell>
-        <mxCell id="21664" value="C" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;labelBackgroundColor=none;fontSize=18;fontColor=#23445D;" parent="21658" vertex="1">
-          <mxGeometry x="428" y="501" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="21665" value="ABCE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;labelBackgroundColor=none;fontSize=14;fontColor=#23445D;" parent="21658" vertex="1">
-          <mxGeometry x="321" y="259" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="21666" value="ABCD" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;labelBackgroundColor=none;fontSize=14;fontColor=#23445D;" parent="21658" vertex="1">
-          <mxGeometry x="344" y="325" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="21667" value="DEAB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;labelBackgroundColor=none;fontSize=14;fontColor=#23445D;" parent="21658" vertex="1">
-          <mxGeometry x="227" y="258" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="21668" value="A" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;labelBackgroundColor=none;fontSize=18;fontColor=#23445D;" parent="21658" vertex="1">
-          <mxGeometry x="273" y="41" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="21669" value="B" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;labelBackgroundColor=none;fontSize=18;fontColor=#23445D;" parent="21658" vertex="1">
-          <mxGeometry x="511" y="241.5" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="21670" value="D" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;labelBackgroundColor=none;fontSize=18;fontColor=#23445D;" parent="21658" vertex="1">
-          <mxGeometry x="109.5" y="501" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="21671" value="E" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;labelBackgroundColor=none;fontSize=18;fontColor=#23445D;" parent="21658" vertex="1">
-          <mxGeometry x="28" y="241.5" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="21672" value="AB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;labelBackgroundColor=none;fontSize=16;fontColor=#23445D;" parent="21658" vertex="1">
-          <mxGeometry x="388" y="142" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="21673" value="BC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;labelBackgroundColor=none;fontSize=16;fontColor=#23445D;" parent="21658" vertex="1">
-          <mxGeometry x="428" y="361" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="21674" value="CD" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;labelBackgroundColor=none;fontSize=16;fontColor=#23445D;" parent="21658" vertex="1">
-          <mxGeometry x="271" y="521" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="21675" value="DE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;labelBackgroundColor=none;fontSize=16;fontColor=#23445D;" parent="21658" vertex="1">
-          <mxGeometry x="110" y="361" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="21676" value="EA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;labelBackgroundColor=none;fontSize=16;fontColor=#23445D;" parent="21658" vertex="1">
-          <mxGeometry x="151" y="163" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="21677" value="ABE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;labelBackgroundColor=none;fontSize=14;fontColor=#23445D;" parent="21658" vertex="1">
-          <mxGeometry x="271" y="201" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="21678" value="ABC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;labelBackgroundColor=none;fontSize=14;fontColor=#23445D;" parent="21658" vertex="1">
-          <mxGeometry x="374" y="281" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="21679" value="BCD" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;labelBackgroundColor=none;fontSize=14;fontColor=#23445D;" parent="21658" vertex="1">
-          <mxGeometry x="348" y="402" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="21680" value="CDE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;labelBackgroundColor=none;fontSize=14;fontColor=#23445D;" parent="21658" vertex="1">
-          <mxGeometry x="205" y="392" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="21681" value="DEA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;labelBackgroundColor=none;fontSize=14;fontColor=#23445D;" parent="21658" vertex="1">
-          <mxGeometry x="171" y="281" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="21682" value="BCDE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;labelBackgroundColor=none;fontSize=14;fontColor=#23445D;" parent="21658" vertex="1">
-          <mxGeometry x="281" y="371" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="21683" value="CDEA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;labelBackgroundColor=none;fontSize=14;fontColor=#23445D;" parent="21658" vertex="1">
-          <mxGeometry x="202" y="325" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="21684" value="ABCDE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;labelBackgroundColor=none;fontSize=14;fontColor=#23445D;" parent="21658" vertex="1">
-          <mxGeometry x="273" y="311" width="40" height="20" as="geometry" />
+        <mxCell id="R4TMoheEHXKSQJW_qprq-21729" value="&lt;h1&gt;Creation&lt;/h1&gt;&lt;div&gt;A magic deities created the world&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;align=left;" vertex="1" parent="1">
+          <mxGeometry y="340" width="200" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
