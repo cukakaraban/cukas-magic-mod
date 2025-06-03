@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "cukas-magic-mod",
+	"version": "${version}",
+	"name": "Cuka's magic mod",
+	"description": "Cuka's magic mod adds magic. WIP",
+	"authors": [
+		"Cukakaraban"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "WIP"
+	},
+	"license": "MIT",
+	"icon": "assets/cukas-magic-mod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.cukakaraban.cukasmagicmod.CukasMagicMod"
+		],
+		"fabric-datagen": [
+			"net.cukakaraban.cukasmagicmod.CukasMagicModDataGenerator"
+		],
+		"client": [
+			"net.cukakaraban.cukasmagicmod.CukasMagicModClient"
+		]
+	},
+	"mixins": [
+		"cukas-magic-mod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.14",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
